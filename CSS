@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    font-family: tahoma;
+    text-align: center;
+}
+
+.secao-topo{
+    background-color: #afddfb;
+}
+
+.secao-topo .imagem-logo {
+    width: 150px;
+
+}
+
+.secao-topo .paragrafo-topo{
+   margin-top: 15px;
+   margin-bottom:25px;
+ 
+}
+
+.secao-topo a{
+    font-size: 18px;
+    color:#1d1d1d;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+    margin: 0 10px 0 10px;
+    
+}
+
+.imagem-banner {
+    padding-top: 0;
+    margin-top: 50px;
+
+    
+}
+
+.secao-conteudo {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.secao-conteudo h1{
+    color:#1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-conteudo .secao-subtitulo {
+    color:#1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.secao-conteudo .imovel-assinatura {
+    width: 450px;
+}
+
+.secao-conteudo p {
+    text-align: justify;
+    width: 980px;
+    margin-left: 150px;
+
+}
+
+.secao-conteudo .texto-azul {
+    color:#1d80c1;
+    font-weight: bold;
+}
+
+.secao-serviços {
+    background-color:#1d80c1;
+}
+
+.secao-serviços .secao-subtitulo {
+    color:#ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-seviços {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.secao-serviços p {
+    color:#ffffff;
+     font-size: 22px;
+     line-height: 42px;
+     width: 700px;
+     margin-left: 300px;
+}
+
+.secao-serviços .texto-amarelo {
+     font-weight: bold;
+     color:#fff81b;
+}
+
+.secao-serviços ul {
+    margin:40px auto 40px auto;
+    width: 135px;
+}
+
+.secao-serviços li {
+    font-size: 22px;
+    color:#ffffff;
+    line-height: 42px;
+    text-align: left;
+}
+
+.secao-corretores {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.secao-corretores .secao-subtitulo {
+    color:#1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-corretores .imagem-corretores {
+    width: 450px;
+}
+
+.secao-corretores p {
+    text-align: justify;
+    width: 980px;
+    margin-left: 150px;
+}
+
+.secao-corretores .texto-azul {
+    color:#1d80c1;
+    font-weight: bold;
+}
+
+.secao-contato {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:#1d80c1;
+   
+}
+
+.secao-contato .secao-subtitulo {
+    color:#ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-contato p {
+    background-color:#1d1d1d;
+    color:#ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.secao-contato .texto-amarelo {
+    font-weight: bold;
+     color:#fff81b;
+}
+
+.secao-contato ul {
+    margin: 40px auto 40px auto;
+    width: 210px;
+}
+
+.secao-contato li {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.secao-contato a {
+    background-color: #ffffff;
+    color:#1d80c1;
+    padding: 2px 5px 2px 5px;
+    border-radius: 15px;
+}
